@@ -8,6 +8,13 @@ Olá Meus amigus
 
 Bem Vindos a API Global 
 
+
+
+Fazendo Testes 
+
+Testando 
+
+
 # JSONServer + JWT Auth
 
 Essa é ma API Rest mockada, utilizando json-server e JWT.
